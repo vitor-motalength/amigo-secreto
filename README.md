@@ -10,4 +10,5 @@ O código coleta os nomes que o usuário escreveu e os adiciona a uma lista ao c
 ## 🛠 Tecnologias usadas  
 - 🟡 **JavaScript**  
 - 🔵 **HTML**  
-- 🟣 **CSS**  
+- 🟣 **CSS**
+- 🟠 **Git**
